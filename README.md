@@ -1,3 +1,10 @@
+# DevelopersHub Corporation — AI/ML Engineering Internship
+
+**Intern Name:** Muhammad Aoun Khan
+
+**Due Date:** 27th June, 2026
+
+
 Task 1: Exploring & Visualizing a Dataset 
 
 Objective: Learn how to analyze and visualize data using the Iris dataset.
